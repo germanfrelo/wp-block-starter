@@ -10,7 +10,7 @@
 	"example": {},
 	"keywords": [],
 	"attributes": {
-		"message": {
+		"content": {
 			"type": "string",
 			"source": "html",
 			"selector": "p"

@@ -26,7 +26,7 @@ import { RichText, useBlockProps } from "@wordpress/block-editor";
  * @return {Element} Element to render.
  */
 export default function Edit({ attributes, setAttributes }) {
-	const { message } = attributes;
+	const { content } = attributes;
 
 	// Get the block's wrapper properties
 	const blockProps = useBlockProps();
@@ -35,8 +35,8 @@ export default function Edit({ attributes, setAttributes }) {
 		<RichText
 			{...blockProps}
 			tagName="p"
-			value={message}
-			onChange={(newValue) => setAttributes({ message: newValue })}
+			value={content}
+			onChange={(newValue) => setAttributes({ content: newValue })}
 			placeholder={__("Type your text here…", "plugin-slug")}
 		/>
 	);
