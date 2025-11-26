@@ -1,0 +1,26 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "plugin-slug/block-slug",
+	"version": "0.1.0",
+	"title": "[Block Title]",
+	"category": "text",
+	"icon": "block-default",
+	"description": "[Block Description]",
+	"example": {},
+	"keywords": [],
+	"attributes": {
+		"message": {
+			"type": "string",
+			"source": "html",
+			"selector": "p"
+		}
+	},
+	"supports": {
+		"html": false
+	},
+	"textdomain": "plugin-slug",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}

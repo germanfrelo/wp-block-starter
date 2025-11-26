@@ -1,0 +1,16 @@
+{
+	"recommendations": [
+		// CSS
+		"stylelint.vscode-stylelint",
+		// Formatting
+		"EditorConfig.EditorConfig",
+		"esbenp.prettier-vscode",
+		// Markdown
+		"DavidAnson.vscode-markdownlint",
+		// JS
+		"dbaeumer.vscode-eslint",
+		// WordPress
+		"johnbillion.vscode-wordpress-hooks",
+		"wordpresstoolbox.wordpress-toolbox"
+	]
+}
