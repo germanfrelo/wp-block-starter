@@ -27,7 +27,7 @@
 	"devDependencies": {
 		"@prettier/plugin-php": "0.24.0",
 		"@wordpress/env": "10.35.0",
-		"@wordpress/scripts": "31.0.0",
+		"@wordpress/scripts": "31.1.0",
 		"prettier": "3.6.2"
 	}
 }
