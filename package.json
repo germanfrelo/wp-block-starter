@@ -8,7 +8,7 @@
 	"bugs": "",
 	"repository": "",
 	"license": "GPL-2.0-or-later",
-	"author": "[Plugin Author]",
+	"author": "Germán Freixinós",
 	"type": "module",
 	"main": "build/index.js",
 	"scripts": {
