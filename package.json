@@ -1,12 +1,15 @@
 {
-	"name": "plugin-slug",
+	"name": "wp-block-starter",
 	"version": "0.1.0",
 	"private": true,
-	"description": "[Plugin Description]",
+	"description": "Starter template for modern WordPress block plugins — always multi-block, duplicate-and-rename boilerplate with preconfigured build tooling.",
 	"keywords": [],
-	"homepage": "",
-	"bugs": "",
-	"repository": "",
+	"homepage": "https://github.com/germanfrelo/wp-block-starter",
+	"bugs": "https://github.com/germanfrelo/wp-block-starter/issues",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/germanfrelo/wp-block-starter.git"
+	},
 	"license": "GPL-2.0-or-later",
 	"author": "Germán Freixinós",
 	"type": "module",

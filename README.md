@@ -1,6 +1,6 @@
 # Plugin Starter Template
 
-This is a universal starter template for creating modern WordPress block plugins. It uses an **always multi-block** layout.
+> Starter template for modern WordPress block plugins — always multi-block, duplicate-and-rename boilerplate with preconfigured build tooling.
 
 ## Quick Start
 
